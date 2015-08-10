@@ -1,5 +1,5 @@
 # AES
-An inplementation of AES 256 Bits Encryption based on Python.
+An inplementation of AES 128 Bits Encryption based on Python.
 
 **Some Notes*** :
 
